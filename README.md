@@ -1,6 +1,6 @@
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Roger-Li/farsPackage?branch=master&svg=true)](https://ci.appveyor.com/project/Roger-Li/farsPackage)
 
-This package provides convenient functions to extract, aggregate and
+As a programming assignment submission for the Coursera class [Building an R Package](https://www.coursera.org/learn/r-packages/), farsPackage provides convenient functions to extract, aggregate and
 visualise the [Fatality Analysis Reporting System (FARS)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) data from the US National Highway Traffic Safety Administration, which is a nationwide census providing the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
 
 
