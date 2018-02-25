@@ -17,7 +17,7 @@ fars_map_state(state.num, year)
 }
 \description{
 \code{fars_map_state} takes a State number and a year as arguments.
-  Reads the corresponding file and draws a map of the acccidents using
+  Reads the corresponding file and draws a map of the acccidents using 
   longitude and latitude for that the state.
 }
 \details{
