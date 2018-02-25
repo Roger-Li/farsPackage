@@ -8,6 +8,7 @@ Description: Extract, summarize, and visualize the FARS dataset
 URL: https://github.com/Roger-Li/farsPackage
 License: GPL-3
 Encoding: UTF-8
+Imports: dplyr, maps, readr, tidyr
 LazyData: true
 Suggests: knitr,
     rmarkdown
