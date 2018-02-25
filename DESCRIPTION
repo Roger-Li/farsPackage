@@ -6,6 +6,7 @@ Author: Yuanzhe Li <liyz06@gmail.com>
 Maintainer: Yuanzhe Li <liyz06@gmail.com>
 Description: Extract, summarize, and visualize the FARS dataset
 URL: https://github.com/Roger-Li/farsPackage
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Suggests: knitr,
